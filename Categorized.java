@@ -3,10 +3,6 @@ package minebay;
 /**
  * Caractérise une classe dont chaque instance appartient à une catégorie 
  * représentée par un type enum.
- * 
- *@author PIERRE Jean SAmuel 12201116
- Je déclare qu'il s'agit de mon propre travail
- * 
  * @param <C> le type enum utilisé pour caractériser les instances de cette classe
  * 
  * @invariant getCategory() != null;
